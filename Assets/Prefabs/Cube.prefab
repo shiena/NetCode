@@ -12,8 +12,8 @@ GameObject:
   - component: {fileID: 6895806158606003238}
   - component: {fileID: 6895806158606003225}
   - component: {fileID: 6895806158606003224}
-  - component: {fileID: 8158356098516719115}
-  - component: {fileID: 3437864903405574733}
+  - component: {fileID: 8172836894206763418}
+  - component: {fileID: -567893813812107719}
   m_Layer: 0
   m_Name: Cube
   m_TagString: Untagged
@@ -95,7 +95,7 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &8158356098516719115
+--- !u!114 &8172836894206763418
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -107,6 +107,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7c79d771cedb4794bf100ce60df5f764, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  prefabId: c3c8f8b51ae71994799e7a5914b9931c
   DefaultClientInstantiationType: 2
   RootPath: /Scripts/Generated
   SnapshotDataPath: CubeSnapshotData.cs
@@ -189,7 +190,7 @@ MonoBehaviour:
     manualFieldList: 0
     entityIndex: 0
   doNotStrip: 0
---- !u!114 &3437864903405574733
+--- !u!114 &-567893813812107719
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

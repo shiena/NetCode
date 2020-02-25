@@ -168,7 +168,7 @@ MonoBehaviour:
   DeserializerCollectionPath: GhostDeserializerCollection.cs
   NamePrefix: NetCube
   Ghosts:
-  - prefab: {fileID: 8158356098516719115, guid: c3c8f8b51ae71994799e7a5914b9931c,
+  - prefab: {fileID: 8172836894206763418, guid: c3c8f8b51ae71994799e7a5914b9931c,
       type: 3}
     enabled: 1
 --- !u!1 &705507993
