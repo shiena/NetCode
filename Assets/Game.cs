@@ -54,11 +54,11 @@ public class GoInGameRequestSystem : RpcCommandRequestSystem<GoInGameRequest>
 [BurstCompile]
 public struct GoInGameRequest : IRpcCommand
 {
-    public void Deserialize(DataStreamReader reader, ref DataStreamReader.Context ctx)
+    public void Deserialize(ref DataStreamReader reader)
     {
     }
 
-    public void Serialize(DataStreamWriter writer)
+    public void Serialize(ref DataStreamWriter writer)
     {
     }
     [BurstCompile]
